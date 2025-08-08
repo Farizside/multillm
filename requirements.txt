@@ -1,0 +1,7 @@
+fastapi
+requests==2.32.4
+openai==1.99.3
+azure-ai-inference==1.0.0b9
+sentence-transformers==5.1.0
+pydantic==1.10.15
+python-multipart==0.0.20
